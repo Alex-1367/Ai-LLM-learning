@@ -1,0 +1,2150 @@
+{
+  "timestamp": "2026-03-09T22:51:53.795Z",
+  "stats": {
+    "totalFiles": 132,
+    "totalSentences": 5494,
+    "filesProcessed": [
+      {
+        "name": "Albert Einstein.pdf",
+        "folder": "/home/admin/Videos/Audio/Albert Einstein",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Albert Einstein",
+        "sentences": 38,
+        "dialogues": 33,
+        "vocabulary": 99,
+        "pages": 1
+      },
+      {
+        "name": "Anna.pdf",
+        "folder": "/home/admin/Videos/Audio/Anna",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Anna Berlin.pdf",
+        "folder": "/home/admin/Videos/Audio/Anna Berlin",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Werner S._Auf der Suche nach Toby_2013.pdf",
+        "folder": "/home/admin/Videos/Audio/Auf der Suche nach Toby",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Auf der Suche nach Toby_Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Auf der Suche nach Toby",
+        "sentences": 7,
+        "dialogues": 13,
+        "vocabulary": 78,
+        "pages": 1
+      },
+      {
+        "name": "Ausgetrickst.pdf",
+        "folder": "/home/admin/Videos/Audio/Ausgetrickst",
+        "sentences": 2,
+        "dialogues": 0,
+        "vocabulary": 1,
+        "pages": 1
+      },
+      {
+        "name": "Berliner Pokalfieber.pdf",
+        "folder": "/home/admin/Videos/Audio/Berliner Pokalfieber",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Brigitta.pdf",
+        "folder": "/home/admin/Videos/Audio/Brigitta",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Claudia Mallorca.pdf",
+        "folder": "/home/admin/Videos/Audio/Claudia Mallorca",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Das Gold der alten Dame.pdf",
+        "folder": "/home/admin/Videos/Audio/Das Gold der alten Dame",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Das Haus an den Klippen.pdf",
+        "folder": "/home/admin/Videos/Audio/Das Haus an den Klippen",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Das Haus an den Klippen",
+        "sentences": 9,
+        "dialogues": 31,
+        "vocabulary": 106,
+        "pages": 1
+      },
+      {
+        "name": "Das geheime Rezept.pdf",
+        "folder": "/home/admin/Videos/Audio/Das geheime Rezept",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Loesungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Das geheime Rezept",
+        "sentences": 7,
+        "dialogues": 0,
+        "vocabulary": 81,
+        "pages": 1
+      },
+      {
+        "name": "Das schnelle Glueck.pdf",
+        "folder": "/home/admin/Videos/Audio/Das schnelle Glueck",
+        "sentences": 2,
+        "dialogues": 0,
+        "vocabulary": 3,
+        "pages": 1
+      },
+      {
+        "name": "Das letzte Hindernis.pdf",
+        "folder": "/home/admin/Videos/Audio/Das letzte Hindernis",
+        "sentences": 214,
+        "dialogues": 100,
+        "vocabulary": 397,
+        "pages": 1
+      },
+      {
+        "name": "loesung_das_schnelle_glueck.pdf",
+        "folder": "/home/admin/Videos/Audio/Das schnelle Glueck",
+        "sentences": 82,
+        "dialogues": 24,
+        "vocabulary": 181,
+        "pages": 1
+      },
+      {
+        "name": "David Dresden.pdf",
+        "folder": "/home/admin/Videos/Audio/David Dresden",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Der 80. Geburtstag.pdf",
+        "folder": "/home/admin/Videos/Audio/Der 80. Geburtstag",
+        "sentences": 21,
+        "dialogues": 7,
+        "vocabulary": 51,
+        "pages": 1
+      },
+      {
+        "name": "loesung_80_geburtstag.pdf",
+        "folder": "/home/admin/Videos/Audio/Der 80. Geburtstag",
+        "sentences": 63,
+        "dialogues": 19,
+        "vocabulary": 142,
+        "pages": 1
+      },
+      {
+        "name": "Der Einbruch.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Einbruch",
+        "sentences": 1,
+        "dialogues": 0,
+        "vocabulary": 2,
+        "pages": 1
+      },
+      {
+        "name": "Der Auftrag.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Auftrag",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "loesung_der_einbruch.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Einbruch",
+        "sentences": 85,
+        "dialogues": 43,
+        "vocabulary": 202,
+        "pages": 1
+      },
+      {
+        "name": "Der Filmstar.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Filmstar",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Bottcher R., Lang S., Salvador K._Der Fluch der Mumie_2012.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Fluch der Mumie",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Der Fluch der Mumie_2012_Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Fluch der Mumie",
+        "sentences": 7,
+        "dialogues": 4,
+        "vocabulary": 158,
+        "pages": 1
+      },
+      {
+        "name": "Der Jaguar.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Jaguar",
+        "sentences": 8,
+        "dialogues": 3,
+        "vocabulary": 43,
+        "pages": 1
+      },
+      {
+        "name": "loesung_der_jaguar.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Jaguar",
+        "sentences": 67,
+        "dialogues": 31,
+        "vocabulary": 145,
+        "pages": 1
+      },
+      {
+        "name": "Der Maerchenkoenig.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Maerchenkoenig",
+        "sentences": 248,
+        "dialogues": 98,
+        "vocabulary": 402,
+        "pages": 1
+      },
+      {
+        "name": "Der Nussknacker.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Nussknacker",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Der Superstar.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Superstar",
+        "sentences": 1,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Der Nussknacker",
+        "sentences": 15,
+        "dialogues": 0,
+        "vocabulary": 61,
+        "pages": 1
+      },
+      {
+        "name": "Gestiefelter Kater.pdf",
+        "folder": "/home/admin/Videos/Audio/Der gestiefelte Kater",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Detektiv.pdf",
+        "folder": "/home/admin/Videos/Audio/Detektiv wider Willen",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Der gestiefelte Kater",
+        "sentences": 39,
+        "dialogues": 30,
+        "vocabulary": 173,
+        "pages": 1
+      },
+      {
+        "name": "Die Nachbarn.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Nachbarn",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Loesungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Nachbarn",
+        "sentences": 46,
+        "dialogues": 19,
+        "vocabulary": 98,
+        "pages": 1
+      },
+      {
+        "name": "Die Neue.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Neue",
+        "sentences": 125,
+        "dialogues": 29,
+        "vocabulary": 233,
+        "pages": 1
+      },
+      {
+        "name": "Die Nibelungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Nibelungen",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "loesung_die_neue.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Neue",
+        "sentences": 117,
+        "dialogues": 30,
+        "vocabulary": 174,
+        "pages": 1
+      },
+      {
+        "name": "LU-Nibelungen LOSUNGEN.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Nibelungen",
+        "sentences": 27,
+        "dialogues": 82,
+        "vocabulary": 259,
+        "pages": 1
+      },
+      {
+        "name": "Die Prinzessin.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Prinzessin",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Die Rache des Computers.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Rache des Computers",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "loesung_die_prinzessin.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Prinzessin",
+        "sentences": 114,
+        "dialogues": 24,
+        "vocabulary": 161,
+        "pages": 1
+      },
+      {
+        "name": "Die Skorpion-Frau.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Skorpion-Frau",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Rache des Computers",
+        "sentences": 161,
+        "dialogues": 43,
+        "vocabulary": 264,
+        "pages": 1
+      },
+      {
+        "name": "Die Verwandlung.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Verwandlung",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Die doppelte Paula.pdf",
+        "folder": "/home/admin/Videos/Audio/Die doppelte Paula",
+        "sentences": 2,
+        "dialogues": 0,
+        "vocabulary": 1,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Die Verwandlung",
+        "sentences": 206,
+        "dialogues": 39,
+        "vocabulary": 331,
+        "pages": 1
+      },
+      {
+        "name": "Diebstahl in Hamburg_Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Diebstahl in Hamburg",
+        "sentences": 2,
+        "dialogues": 4,
+        "vocabulary": 73,
+        "pages": 1
+      },
+      {
+        "name": "Werner S._Diebstahl in Hamburg_2014.pdf",
+        "folder": "/home/admin/Videos/Audio/Diebstahl in Hamburg",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Ebbe und Flut.PDF",
+        "folder": "/home/admin/Videos/Audio/Ebbe und Flut",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Effi Briest.pdf",
+        "folder": "/home/admin/Videos/Audio/Effi Briest",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Schlussel.pdf",
+        "folder": "/home/admin/Videos/Audio/Effi Briest",
+        "sentences": 49,
+        "dialogues": 22,
+        "vocabulary": 142,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Effi Briest",
+        "sentences": 30,
+        "dialogues": 22,
+        "vocabulary": 110,
+        "pages": 1
+      },
+      {
+        "name": "Ein Fall auf Ruegen.pdf",
+        "folder": "/home/admin/Videos/Audio/Ein Fall auf Ruegen",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Ein Hundeleben.pdf",
+        "folder": "/home/admin/Videos/Audio/Ein Hundeleben",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Ein Mann zu viel.pdf",
+        "folder": "/home/admin/Videos/Audio/Ein Mann zu viel",
+        "sentences": 158,
+        "dialogues": 81,
+        "vocabulary": 327,
+        "pages": 1
+      },
+      {
+        "name": "loesung_ein_hundeleben.pdf",
+        "folder": "/home/admin/Videos/Audio/Ein Hundeleben",
+        "sentences": 108,
+        "dialogues": 22,
+        "vocabulary": 196,
+        "pages": 1
+      },
+      {
+        "name": "Ein Schuss ins Leere.pdf",
+        "folder": "/home/admin/Videos/Audio/Ein Schuss ins Leere",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Eine Liebesgeschichte.pdf",
+        "folder": "/home/admin/Videos/Audio/Eine Liebesgeschichte",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Eine spezielle Band.pdf",
+        "folder": "/home/admin/Videos/Audio/Eine spezielle Band",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Einstein und das tote Kaninchen.pdf",
+        "folder": "/home/admin/Videos/Audio/Einstein und das tote Kaninchen",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Elvis in Koeln.pdf",
+        "folder": "/home/admin/Videos/Audio/Elvis in Koeln",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Eine spezielle Band",
+        "sentences": 0,
+        "dialogues": 28,
+        "vocabulary": 63,
+        "pages": 1
+      },
+      {
+        "name": "Erich ist verschwunden.pdf",
+        "folder": "/home/admin/Videos/Audio/Erich ist verschwunden",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Eva Wien.pdf",
+        "folder": "/home/admin/Videos/Audio/Eva Wien",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Faust das Volksbuch.pdf",
+        "folder": "/home/admin/Videos/Audio/Faust das Volksbuch",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Faust das Volksbuch",
+        "sentences": 1,
+        "dialogues": 22,
+        "vocabulary": 88,
+        "pages": 1
+      },
+      {
+        "name": "Frankenstein.pdf",
+        "folder": "/home/admin/Videos/Audio/Frankenstein",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Loesungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Frankenstein",
+        "sentences": 10,
+        "dialogues": 35,
+        "vocabulary": 93,
+        "pages": 1
+      },
+      {
+        "name": "Franz Muenchen.pdf",
+        "folder": "/home/admin/Videos/Audio/Franz Muenchen",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Gebrochene Herzen.pdf",
+        "folder": "/home/admin/Videos/Audio/Gebrochene Herzen",
+        "sentences": 5,
+        "dialogues": 4,
+        "vocabulary": 46,
+        "pages": 1
+      },
+      {
+        "name": "loesung_gebrochene_herzen.pdf",
+        "folder": "/home/admin/Videos/Audio/Gebrochene Herzen",
+        "sentences": 115,
+        "dialogues": 28,
+        "vocabulary": 184,
+        "pages": 1
+      },
+      {
+        "name": "Glueck gehabt.pdf",
+        "folder": "/home/admin/Videos/Audio/Glueck gehabt",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Grosse Gefuele.pdf",
+        "folder": "/home/admin/Videos/Audio/Grosse Gefuehle",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "loesung_grosse_gefuehle.pdf",
+        "folder": "/home/admin/Videos/Audio/Grosse Gefuehle",
+        "sentences": 56,
+        "dialogues": 12,
+        "vocabulary": 113,
+        "pages": 1
+      },
+      {
+        "name": "Haifische in der Spree.pdf",
+        "folder": "/home/admin/Videos/Audio/Haifische in der Spree",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Heidelberger Herbst.pdf",
+        "folder": "/home/admin/Videos/Audio/Heidelberger Herbst",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Hinter den Kulissen.pdf",
+        "folder": "/home/admin/Videos/Audio/Hinter den Kulissen",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 3,
+        "pages": 1
+      },
+      {
+        "name": "In Gefahr.pdf",
+        "folder": "/home/admin/Videos/Audio/In Gefahr",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "loesung_hinter_den_kulissen.pdf",
+        "folder": "/home/admin/Videos/Audio/Hinter den Kulissen",
+        "sentences": 112,
+        "dialogues": 25,
+        "vocabulary": 160,
+        "pages": 1
+      },
+      {
+        "name": "loesung_in_gefahr.pdf",
+        "folder": "/home/admin/Videos/Audio/In Gefahr",
+        "sentences": 132,
+        "dialogues": 37,
+        "vocabulary": 203,
+        "pages": 1
+      },
+      {
+        "name": "Julie Koeln.pdf",
+        "folder": "/home/admin/Videos/Audio/Julie Koeln",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "CDs.pdf",
+        "folder": "/home/admin/Videos/Audio/Keine Panik/Audio",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Kaltes Blut.pdf",
+        "folder": "/home/admin/Videos/Audio/Kaltes Blut",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Keine Panik.pdf",
+        "folder": "/home/admin/Videos/Audio/Keine Panik",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Lara Frankfurt.pdf",
+        "folder": "/home/admin/Videos/Audio/Lara Frankfurt",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Klara & Theo. Kommissar Zufall.pdf",
+        "folder": "/home/admin/Videos/Audio/Kommissar Zufall",
+        "sentences": 253,
+        "dialogues": 100,
+        "vocabulary": 372,
+        "pages": 1
+      },
+      {
+        "name": "Leichte Beute.pdf",
+        "folder": "/home/admin/Videos/Audio/Leichte Beute",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "loesung_leichte_beute.pdf",
+        "folder": "/home/admin/Videos/Audio/Leichte Beute",
+        "sentences": 98,
+        "dialogues": 20,
+        "vocabulary": 157,
+        "pages": 1
+      },
+      {
+        "name": "Leise kommt der Tod.pdf",
+        "folder": "/home/admin/Videos/Audio/Leise kommt der Tod",
+        "sentences": 261,
+        "dialogues": 100,
+        "vocabulary": 500,
+        "pages": 1
+      },
+      {
+        "name": "Das Idealpaar.pdf",
+        "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Das Idealpaar",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Der Hundetraum.pdf",
+        "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Der Hundetraum",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Idealpaar_Didakt_06_08.pdf",
+        "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Das Idealpaar",
+        "sentences": 283,
+        "dialogues": 100,
+        "vocabulary": 500,
+        "pages": 1
+      },
+      {
+        "name": "Die Blaumacherin.pdf",
+        "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Die Blaumacherin",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "HundundDida.pdf",
+        "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Der Hundetraum",
+        "sentences": 257,
+        "dialogues": 73,
+        "vocabulary": 410,
+        "pages": 1
+      },
+      {
+        "name": "dida-blaumacherin.2592.pdf",
+        "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Die Blaumacherin",
+        "sentences": 204,
+        "dialogues": 74,
+        "vocabulary": 383,
+        "pages": 1
+      },
+      {
+        "name": "Eine Frau, ein Mann.pdf",
+        "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Eine Frau, ein Mann",
+        "sentences": 43,
+        "dialogues": 16,
+        "vocabulary": 59,
+        "pages": 1
+      },
+      {
+        "name": "Didaktisierungen i.pdf.pdf",
+        "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Eine Frau, ein Mann",
+        "sentences": 322,
+        "dialogues": 100,
+        "vocabulary": 500,
+        "pages": 1
+      },
+      {
+        "name": "Didaktisierungen ii.pdf.pdf",
+        "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Eine Frau, ein Mann",
+        "sentences": 306,
+        "dialogues": 94,
+        "vocabulary": 500,
+        "pages": 1
+      },
+      {
+        "name": "Liebe im Mai.pdf",
+        "folder": "/home/admin/Videos/Audio/Liebe im Mai",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "loesung_miss_hamburg.pdf",
+        "folder": "/home/admin/Videos/Audio/Miss Hamburg",
+        "sentences": 66,
+        "dialogues": 38,
+        "vocabulary": 188,
+        "pages": 1
+      },
+      {
+        "name": "Klara & Theo. Muellmafia.pdf",
+        "folder": "/home/admin/Videos/Audio/Muellmafia",
+        "sentences": 190,
+        "dialogues": 100,
+        "vocabulary": 315,
+        "pages": 1
+      },
+      {
+        "name": "Nora Zuerich.pdf",
+        "folder": "/home/admin/Videos/Audio/Nora Zuerich",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Oh Maria.pdf",
+        "folder": "/home/admin/Videos/Audio/Oh Maria",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Oktoberfest.pdf",
+        "folder": "/home/admin/Videos/Audio/Oktoberfest",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Oktoberfest - und zurueck.pdf",
+        "folder": "/home/admin/Videos/Audio/Oktoberfest - und zurueck",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Sandmann.pdf",
+        "folder": "/home/admin/Videos/Audio/Sandmann",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "loesung_oktoberfest_zurueck.pdf",
+        "folder": "/home/admin/Videos/Audio/Oktoberfest - und zurueck",
+        "sentences": 78,
+        "dialogues": 14,
+        "vocabulary": 146,
+        "pages": 1
+      },
+      {
+        "name": "Schoene Ferien.pdf",
+        "folder": "/home/admin/Videos/Audio/Schoene Ferien",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Schwere Kost.pdf",
+        "folder": "/home/admin/Videos/Audio/Schwere Kost",
+        "sentences": 52,
+        "dialogues": 15,
+        "vocabulary": 90,
+        "pages": 1
+      },
+      {
+        "name": "loesung_schoene_ferien.pdf",
+        "folder": "/home/admin/Videos/Audio/Schoene Ferien",
+        "sentences": 93,
+        "dialogues": 23,
+        "vocabulary": 152,
+        "pages": 1
+      },
+      {
+        "name": "Speed Dating.pdf",
+        "folder": "/home/admin/Videos/Audio/Speed Dating",
+        "sentences": 1,
+        "dialogues": 0,
+        "vocabulary": 3,
+        "pages": 1
+      },
+      {
+        "name": "loesung_schwere_kost.pdf",
+        "folder": "/home/admin/Videos/Audio/Schwere Kost",
+        "sentences": 89,
+        "dialogues": 36,
+        "vocabulary": 174,
+        "pages": 1
+      },
+      {
+        "name": "loesung_speed_dating.pdf",
+        "folder": "/home/admin/Videos/Audio/Speed Dating",
+        "sentences": 56,
+        "dialogues": 24,
+        "vocabulary": 143,
+        "pages": 1
+      },
+      {
+        "name": "Spuk im Nachbarhaus.pdf",
+        "folder": "/home/admin/Videos/Audio/Spuk im Nachbarhaus",
+        "sentences": 2,
+        "dialogues": 0,
+        "vocabulary": 1,
+        "pages": 1
+      },
+      {
+        "name": "Stille Nacht.pdf",
+        "folder": "/home/admin/Videos/Audio/Stille Nacht",
+        "sentences": 68,
+        "dialogues": 12,
+        "vocabulary": 139,
+        "pages": 1
+      },
+      {
+        "name": "loesung_stille_nacht.pdf",
+        "folder": "/home/admin/Videos/Audio/Stille Nacht",
+        "sentences": 95,
+        "dialogues": 25,
+        "vocabulary": 198,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Till Eulenspiegel",
+        "sentences": 2,
+        "dialogues": 18,
+        "vocabulary": 62,
+        "pages": 1
+      },
+      {
+        "name": "Till Eulenspiegel.pdf",
+        "folder": "/home/admin/Videos/Audio/Till Eulenspiegel",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Tina Hamburg.pdf",
+        "folder": "/home/admin/Videos/Audio/Tina Hamburg",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Tor ohne Grenzen",
+        "sentences": 13,
+        "dialogues": 4,
+        "vocabulary": 64,
+        "pages": 1
+      },
+      {
+        "name": "Tor ohne Grenzen.pdf",
+        "folder": "/home/admin/Videos/Audio/Tor ohne Grenzen",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "LOSUNGEN.pdf",
+        "folder": "/home/admin/Videos/Audio/Tristan und Isolde",
+        "sentences": 0,
+        "dialogues": 32,
+        "vocabulary": 64,
+        "pages": 1
+      },
+      {
+        "name": "Tristan und Isolde.pdf",
+        "folder": "/home/admin/Videos/Audio/Tristan und Isolde",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Unter Verdacht.pdf",
+        "folder": "/home/admin/Videos/Audio/Unter Verdacht",
+        "sentences": 58,
+        "dialogues": 11,
+        "vocabulary": 115,
+        "pages": 1
+      },
+      {
+        "name": "loesung_unter_verdacht.pdf",
+        "folder": "/home/admin/Videos/Audio/Unter Verdacht",
+        "sentences": 95,
+        "dialogues": 24,
+        "vocabulary": 190,
+        "pages": 1
+      },
+      {
+        "name": "Vera Heidelberg.pdf",
+        "folder": "/home/admin/Videos/Audio/Vera Heidelberg",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      },
+      {
+        "name": "Losungen.pdf",
+        "folder": "/home/admin/Videos/Audio/Veronikas Geheimnis",
+        "sentences": 17,
+        "dialogues": 17,
+        "vocabulary": 49,
+        "pages": 1
+      },
+      {
+        "name": "Veronikas Geheimnis.pdf",
+        "folder": "/home/admin/Videos/Audio/Veronikas Geheimnis",
+        "sentences": 0,
+        "dialogues": 0,
+        "vocabulary": 0,
+        "pages": 1
+      }
+    ],
+    "errors": [],
+    "uniqueSentences": 4639,
+    "totalCharacters": 297245,
+    "foldersScanned": 88
+  },
+  "filesProcessed": [
+    {
+      "name": "Albert Einstein.pdf",
+      "folder": "/home/admin/Videos/Audio/Albert Einstein",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Albert Einstein",
+      "sentences": 38,
+      "dialogues": 33,
+      "vocabulary": 99,
+      "pages": 1
+    },
+    {
+      "name": "Anna.pdf",
+      "folder": "/home/admin/Videos/Audio/Anna",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Anna Berlin.pdf",
+      "folder": "/home/admin/Videos/Audio/Anna Berlin",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Werner S._Auf der Suche nach Toby_2013.pdf",
+      "folder": "/home/admin/Videos/Audio/Auf der Suche nach Toby",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Auf der Suche nach Toby_Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Auf der Suche nach Toby",
+      "sentences": 7,
+      "dialogues": 13,
+      "vocabulary": 78,
+      "pages": 1
+    },
+    {
+      "name": "Ausgetrickst.pdf",
+      "folder": "/home/admin/Videos/Audio/Ausgetrickst",
+      "sentences": 2,
+      "dialogues": 0,
+      "vocabulary": 1,
+      "pages": 1
+    },
+    {
+      "name": "Berliner Pokalfieber.pdf",
+      "folder": "/home/admin/Videos/Audio/Berliner Pokalfieber",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Brigitta.pdf",
+      "folder": "/home/admin/Videos/Audio/Brigitta",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Claudia Mallorca.pdf",
+      "folder": "/home/admin/Videos/Audio/Claudia Mallorca",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Das Gold der alten Dame.pdf",
+      "folder": "/home/admin/Videos/Audio/Das Gold der alten Dame",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Das Haus an den Klippen.pdf",
+      "folder": "/home/admin/Videos/Audio/Das Haus an den Klippen",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Das Haus an den Klippen",
+      "sentences": 9,
+      "dialogues": 31,
+      "vocabulary": 106,
+      "pages": 1
+    },
+    {
+      "name": "Das geheime Rezept.pdf",
+      "folder": "/home/admin/Videos/Audio/Das geheime Rezept",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Loesungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Das geheime Rezept",
+      "sentences": 7,
+      "dialogues": 0,
+      "vocabulary": 81,
+      "pages": 1
+    },
+    {
+      "name": "Das schnelle Glueck.pdf",
+      "folder": "/home/admin/Videos/Audio/Das schnelle Glueck",
+      "sentences": 2,
+      "dialogues": 0,
+      "vocabulary": 3,
+      "pages": 1
+    },
+    {
+      "name": "Das letzte Hindernis.pdf",
+      "folder": "/home/admin/Videos/Audio/Das letzte Hindernis",
+      "sentences": 214,
+      "dialogues": 100,
+      "vocabulary": 397,
+      "pages": 1
+    },
+    {
+      "name": "loesung_das_schnelle_glueck.pdf",
+      "folder": "/home/admin/Videos/Audio/Das schnelle Glueck",
+      "sentences": 82,
+      "dialogues": 24,
+      "vocabulary": 181,
+      "pages": 1
+    },
+    {
+      "name": "David Dresden.pdf",
+      "folder": "/home/admin/Videos/Audio/David Dresden",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Der 80. Geburtstag.pdf",
+      "folder": "/home/admin/Videos/Audio/Der 80. Geburtstag",
+      "sentences": 21,
+      "dialogues": 7,
+      "vocabulary": 51,
+      "pages": 1
+    },
+    {
+      "name": "loesung_80_geburtstag.pdf",
+      "folder": "/home/admin/Videos/Audio/Der 80. Geburtstag",
+      "sentences": 63,
+      "dialogues": 19,
+      "vocabulary": 142,
+      "pages": 1
+    },
+    {
+      "name": "Der Einbruch.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Einbruch",
+      "sentences": 1,
+      "dialogues": 0,
+      "vocabulary": 2,
+      "pages": 1
+    },
+    {
+      "name": "Der Auftrag.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Auftrag",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "loesung_der_einbruch.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Einbruch",
+      "sentences": 85,
+      "dialogues": 43,
+      "vocabulary": 202,
+      "pages": 1
+    },
+    {
+      "name": "Der Filmstar.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Filmstar",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Bottcher R., Lang S., Salvador K._Der Fluch der Mumie_2012.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Fluch der Mumie",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Der Fluch der Mumie_2012_Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Fluch der Mumie",
+      "sentences": 7,
+      "dialogues": 4,
+      "vocabulary": 158,
+      "pages": 1
+    },
+    {
+      "name": "Der Jaguar.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Jaguar",
+      "sentences": 8,
+      "dialogues": 3,
+      "vocabulary": 43,
+      "pages": 1
+    },
+    {
+      "name": "loesung_der_jaguar.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Jaguar",
+      "sentences": 67,
+      "dialogues": 31,
+      "vocabulary": 145,
+      "pages": 1
+    },
+    {
+      "name": "Der Maerchenkoenig.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Maerchenkoenig",
+      "sentences": 248,
+      "dialogues": 98,
+      "vocabulary": 402,
+      "pages": 1
+    },
+    {
+      "name": "Der Nussknacker.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Nussknacker",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Der Superstar.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Superstar",
+      "sentences": 1,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Der Nussknacker",
+      "sentences": 15,
+      "dialogues": 0,
+      "vocabulary": 61,
+      "pages": 1
+    },
+    {
+      "name": "Gestiefelter Kater.pdf",
+      "folder": "/home/admin/Videos/Audio/Der gestiefelte Kater",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Detektiv.pdf",
+      "folder": "/home/admin/Videos/Audio/Detektiv wider Willen",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Der gestiefelte Kater",
+      "sentences": 39,
+      "dialogues": 30,
+      "vocabulary": 173,
+      "pages": 1
+    },
+    {
+      "name": "Die Nachbarn.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Nachbarn",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Loesungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Nachbarn",
+      "sentences": 46,
+      "dialogues": 19,
+      "vocabulary": 98,
+      "pages": 1
+    },
+    {
+      "name": "Die Neue.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Neue",
+      "sentences": 125,
+      "dialogues": 29,
+      "vocabulary": 233,
+      "pages": 1
+    },
+    {
+      "name": "Die Nibelungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Nibelungen",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "loesung_die_neue.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Neue",
+      "sentences": 117,
+      "dialogues": 30,
+      "vocabulary": 174,
+      "pages": 1
+    },
+    {
+      "name": "LU-Nibelungen LOSUNGEN.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Nibelungen",
+      "sentences": 27,
+      "dialogues": 82,
+      "vocabulary": 259,
+      "pages": 1
+    },
+    {
+      "name": "Die Prinzessin.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Prinzessin",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Die Rache des Computers.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Rache des Computers",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "loesung_die_prinzessin.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Prinzessin",
+      "sentences": 114,
+      "dialogues": 24,
+      "vocabulary": 161,
+      "pages": 1
+    },
+    {
+      "name": "Die Skorpion-Frau.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Skorpion-Frau",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Rache des Computers",
+      "sentences": 161,
+      "dialogues": 43,
+      "vocabulary": 264,
+      "pages": 1
+    },
+    {
+      "name": "Die Verwandlung.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Verwandlung",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Die doppelte Paula.pdf",
+      "folder": "/home/admin/Videos/Audio/Die doppelte Paula",
+      "sentences": 2,
+      "dialogues": 0,
+      "vocabulary": 1,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Die Verwandlung",
+      "sentences": 206,
+      "dialogues": 39,
+      "vocabulary": 331,
+      "pages": 1
+    },
+    {
+      "name": "Diebstahl in Hamburg_Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Diebstahl in Hamburg",
+      "sentences": 2,
+      "dialogues": 4,
+      "vocabulary": 73,
+      "pages": 1
+    },
+    {
+      "name": "Werner S._Diebstahl in Hamburg_2014.pdf",
+      "folder": "/home/admin/Videos/Audio/Diebstahl in Hamburg",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Ebbe und Flut.PDF",
+      "folder": "/home/admin/Videos/Audio/Ebbe und Flut",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Effi Briest.pdf",
+      "folder": "/home/admin/Videos/Audio/Effi Briest",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Schlussel.pdf",
+      "folder": "/home/admin/Videos/Audio/Effi Briest",
+      "sentences": 49,
+      "dialogues": 22,
+      "vocabulary": 142,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Effi Briest",
+      "sentences": 30,
+      "dialogues": 22,
+      "vocabulary": 110,
+      "pages": 1
+    },
+    {
+      "name": "Ein Fall auf Ruegen.pdf",
+      "folder": "/home/admin/Videos/Audio/Ein Fall auf Ruegen",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Ein Hundeleben.pdf",
+      "folder": "/home/admin/Videos/Audio/Ein Hundeleben",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Ein Mann zu viel.pdf",
+      "folder": "/home/admin/Videos/Audio/Ein Mann zu viel",
+      "sentences": 158,
+      "dialogues": 81,
+      "vocabulary": 327,
+      "pages": 1
+    },
+    {
+      "name": "loesung_ein_hundeleben.pdf",
+      "folder": "/home/admin/Videos/Audio/Ein Hundeleben",
+      "sentences": 108,
+      "dialogues": 22,
+      "vocabulary": 196,
+      "pages": 1
+    },
+    {
+      "name": "Ein Schuss ins Leere.pdf",
+      "folder": "/home/admin/Videos/Audio/Ein Schuss ins Leere",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Eine Liebesgeschichte.pdf",
+      "folder": "/home/admin/Videos/Audio/Eine Liebesgeschichte",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Eine spezielle Band.pdf",
+      "folder": "/home/admin/Videos/Audio/Eine spezielle Band",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Einstein und das tote Kaninchen.pdf",
+      "folder": "/home/admin/Videos/Audio/Einstein und das tote Kaninchen",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Elvis in Koeln.pdf",
+      "folder": "/home/admin/Videos/Audio/Elvis in Koeln",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Eine spezielle Band",
+      "sentences": 0,
+      "dialogues": 28,
+      "vocabulary": 63,
+      "pages": 1
+    },
+    {
+      "name": "Erich ist verschwunden.pdf",
+      "folder": "/home/admin/Videos/Audio/Erich ist verschwunden",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Eva Wien.pdf",
+      "folder": "/home/admin/Videos/Audio/Eva Wien",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Faust das Volksbuch.pdf",
+      "folder": "/home/admin/Videos/Audio/Faust das Volksbuch",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Faust das Volksbuch",
+      "sentences": 1,
+      "dialogues": 22,
+      "vocabulary": 88,
+      "pages": 1
+    },
+    {
+      "name": "Frankenstein.pdf",
+      "folder": "/home/admin/Videos/Audio/Frankenstein",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Loesungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Frankenstein",
+      "sentences": 10,
+      "dialogues": 35,
+      "vocabulary": 93,
+      "pages": 1
+    },
+    {
+      "name": "Franz Muenchen.pdf",
+      "folder": "/home/admin/Videos/Audio/Franz Muenchen",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Gebrochene Herzen.pdf",
+      "folder": "/home/admin/Videos/Audio/Gebrochene Herzen",
+      "sentences": 5,
+      "dialogues": 4,
+      "vocabulary": 46,
+      "pages": 1
+    },
+    {
+      "name": "loesung_gebrochene_herzen.pdf",
+      "folder": "/home/admin/Videos/Audio/Gebrochene Herzen",
+      "sentences": 115,
+      "dialogues": 28,
+      "vocabulary": 184,
+      "pages": 1
+    },
+    {
+      "name": "Glueck gehabt.pdf",
+      "folder": "/home/admin/Videos/Audio/Glueck gehabt",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Grosse Gefuele.pdf",
+      "folder": "/home/admin/Videos/Audio/Grosse Gefuehle",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "loesung_grosse_gefuehle.pdf",
+      "folder": "/home/admin/Videos/Audio/Grosse Gefuehle",
+      "sentences": 56,
+      "dialogues": 12,
+      "vocabulary": 113,
+      "pages": 1
+    },
+    {
+      "name": "Haifische in der Spree.pdf",
+      "folder": "/home/admin/Videos/Audio/Haifische in der Spree",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Heidelberger Herbst.pdf",
+      "folder": "/home/admin/Videos/Audio/Heidelberger Herbst",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Hinter den Kulissen.pdf",
+      "folder": "/home/admin/Videos/Audio/Hinter den Kulissen",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 3,
+      "pages": 1
+    },
+    {
+      "name": "In Gefahr.pdf",
+      "folder": "/home/admin/Videos/Audio/In Gefahr",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "loesung_hinter_den_kulissen.pdf",
+      "folder": "/home/admin/Videos/Audio/Hinter den Kulissen",
+      "sentences": 112,
+      "dialogues": 25,
+      "vocabulary": 160,
+      "pages": 1
+    },
+    {
+      "name": "loesung_in_gefahr.pdf",
+      "folder": "/home/admin/Videos/Audio/In Gefahr",
+      "sentences": 132,
+      "dialogues": 37,
+      "vocabulary": 203,
+      "pages": 1
+    },
+    {
+      "name": "Julie Koeln.pdf",
+      "folder": "/home/admin/Videos/Audio/Julie Koeln",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "CDs.pdf",
+      "folder": "/home/admin/Videos/Audio/Keine Panik/Audio",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Kaltes Blut.pdf",
+      "folder": "/home/admin/Videos/Audio/Kaltes Blut",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Keine Panik.pdf",
+      "folder": "/home/admin/Videos/Audio/Keine Panik",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Lara Frankfurt.pdf",
+      "folder": "/home/admin/Videos/Audio/Lara Frankfurt",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Klara & Theo. Kommissar Zufall.pdf",
+      "folder": "/home/admin/Videos/Audio/Kommissar Zufall",
+      "sentences": 253,
+      "dialogues": 100,
+      "vocabulary": 372,
+      "pages": 1
+    },
+    {
+      "name": "Leichte Beute.pdf",
+      "folder": "/home/admin/Videos/Audio/Leichte Beute",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "loesung_leichte_beute.pdf",
+      "folder": "/home/admin/Videos/Audio/Leichte Beute",
+      "sentences": 98,
+      "dialogues": 20,
+      "vocabulary": 157,
+      "pages": 1
+    },
+    {
+      "name": "Leise kommt der Tod.pdf",
+      "folder": "/home/admin/Videos/Audio/Leise kommt der Tod",
+      "sentences": 261,
+      "dialogues": 100,
+      "vocabulary": 500,
+      "pages": 1
+    },
+    {
+      "name": "Das Idealpaar.pdf",
+      "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Das Idealpaar",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Der Hundetraum.pdf",
+      "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Der Hundetraum",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Idealpaar_Didakt_06_08.pdf",
+      "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Das Idealpaar",
+      "sentences": 283,
+      "dialogues": 100,
+      "vocabulary": 500,
+      "pages": 1
+    },
+    {
+      "name": "Die Blaumacherin.pdf",
+      "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Die Blaumacherin",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "HundundDida.pdf",
+      "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Der Hundetraum",
+      "sentences": 257,
+      "dialogues": 73,
+      "vocabulary": 410,
+      "pages": 1
+    },
+    {
+      "name": "dida-blaumacherin.2592.pdf",
+      "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Die Blaumacherin",
+      "sentences": 204,
+      "dialogues": 74,
+      "vocabulary": 383,
+      "pages": 1
+    },
+    {
+      "name": "Eine Frau, ein Mann.pdf",
+      "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Eine Frau, ein Mann",
+      "sentences": 43,
+      "dialogues": 16,
+      "vocabulary": 59,
+      "pages": 1
+    },
+    {
+      "name": "Didaktisierungen i.pdf.pdf",
+      "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Eine Frau, ein Mann",
+      "sentences": 322,
+      "dialogues": 100,
+      "vocabulary": 500,
+      "pages": 1
+    },
+    {
+      "name": "Didaktisierungen ii.pdf.pdf",
+      "folder": "/home/admin/Videos/Audio/Leonhard Thoma/Eine Frau, ein Mann",
+      "sentences": 306,
+      "dialogues": 94,
+      "vocabulary": 500,
+      "pages": 1
+    },
+    {
+      "name": "Liebe im Mai.pdf",
+      "folder": "/home/admin/Videos/Audio/Liebe im Mai",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "loesung_miss_hamburg.pdf",
+      "folder": "/home/admin/Videos/Audio/Miss Hamburg",
+      "sentences": 66,
+      "dialogues": 38,
+      "vocabulary": 188,
+      "pages": 1
+    },
+    {
+      "name": "Klara & Theo. Muellmafia.pdf",
+      "folder": "/home/admin/Videos/Audio/Muellmafia",
+      "sentences": 190,
+      "dialogues": 100,
+      "vocabulary": 315,
+      "pages": 1
+    },
+    {
+      "name": "Nora Zuerich.pdf",
+      "folder": "/home/admin/Videos/Audio/Nora Zuerich",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Oh Maria.pdf",
+      "folder": "/home/admin/Videos/Audio/Oh Maria",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Oktoberfest.pdf",
+      "folder": "/home/admin/Videos/Audio/Oktoberfest",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Oktoberfest - und zurueck.pdf",
+      "folder": "/home/admin/Videos/Audio/Oktoberfest - und zurueck",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Sandmann.pdf",
+      "folder": "/home/admin/Videos/Audio/Sandmann",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "loesung_oktoberfest_zurueck.pdf",
+      "folder": "/home/admin/Videos/Audio/Oktoberfest - und zurueck",
+      "sentences": 78,
+      "dialogues": 14,
+      "vocabulary": 146,
+      "pages": 1
+    },
+    {
+      "name": "Schoene Ferien.pdf",
+      "folder": "/home/admin/Videos/Audio/Schoene Ferien",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Schwere Kost.pdf",
+      "folder": "/home/admin/Videos/Audio/Schwere Kost",
+      "sentences": 52,
+      "dialogues": 15,
+      "vocabulary": 90,
+      "pages": 1
+    },
+    {
+      "name": "loesung_schoene_ferien.pdf",
+      "folder": "/home/admin/Videos/Audio/Schoene Ferien",
+      "sentences": 93,
+      "dialogues": 23,
+      "vocabulary": 152,
+      "pages": 1
+    },
+    {
+      "name": "Speed Dating.pdf",
+      "folder": "/home/admin/Videos/Audio/Speed Dating",
+      "sentences": 1,
+      "dialogues": 0,
+      "vocabulary": 3,
+      "pages": 1
+    },
+    {
+      "name": "loesung_schwere_kost.pdf",
+      "folder": "/home/admin/Videos/Audio/Schwere Kost",
+      "sentences": 89,
+      "dialogues": 36,
+      "vocabulary": 174,
+      "pages": 1
+    },
+    {
+      "name": "loesung_speed_dating.pdf",
+      "folder": "/home/admin/Videos/Audio/Speed Dating",
+      "sentences": 56,
+      "dialogues": 24,
+      "vocabulary": 143,
+      "pages": 1
+    },
+    {
+      "name": "Spuk im Nachbarhaus.pdf",
+      "folder": "/home/admin/Videos/Audio/Spuk im Nachbarhaus",
+      "sentences": 2,
+      "dialogues": 0,
+      "vocabulary": 1,
+      "pages": 1
+    },
+    {
+      "name": "Stille Nacht.pdf",
+      "folder": "/home/admin/Videos/Audio/Stille Nacht",
+      "sentences": 68,
+      "dialogues": 12,
+      "vocabulary": 139,
+      "pages": 1
+    },
+    {
+      "name": "loesung_stille_nacht.pdf",
+      "folder": "/home/admin/Videos/Audio/Stille Nacht",
+      "sentences": 95,
+      "dialogues": 25,
+      "vocabulary": 198,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Till Eulenspiegel",
+      "sentences": 2,
+      "dialogues": 18,
+      "vocabulary": 62,
+      "pages": 1
+    },
+    {
+      "name": "Till Eulenspiegel.pdf",
+      "folder": "/home/admin/Videos/Audio/Till Eulenspiegel",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Tina Hamburg.pdf",
+      "folder": "/home/admin/Videos/Audio/Tina Hamburg",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Tor ohne Grenzen",
+      "sentences": 13,
+      "dialogues": 4,
+      "vocabulary": 64,
+      "pages": 1
+    },
+    {
+      "name": "Tor ohne Grenzen.pdf",
+      "folder": "/home/admin/Videos/Audio/Tor ohne Grenzen",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "LOSUNGEN.pdf",
+      "folder": "/home/admin/Videos/Audio/Tristan und Isolde",
+      "sentences": 0,
+      "dialogues": 32,
+      "vocabulary": 64,
+      "pages": 1
+    },
+    {
+      "name": "Tristan und Isolde.pdf",
+      "folder": "/home/admin/Videos/Audio/Tristan und Isolde",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Unter Verdacht.pdf",
+      "folder": "/home/admin/Videos/Audio/Unter Verdacht",
+      "sentences": 58,
+      "dialogues": 11,
+      "vocabulary": 115,
+      "pages": 1
+    },
+    {
+      "name": "loesung_unter_verdacht.pdf",
+      "folder": "/home/admin/Videos/Audio/Unter Verdacht",
+      "sentences": 95,
+      "dialogues": 24,
+      "vocabulary": 190,
+      "pages": 1
+    },
+    {
+      "name": "Vera Heidelberg.pdf",
+      "folder": "/home/admin/Videos/Audio/Vera Heidelberg",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    },
+    {
+      "name": "Losungen.pdf",
+      "folder": "/home/admin/Videos/Audio/Veronikas Geheimnis",
+      "sentences": 17,
+      "dialogues": 17,
+      "vocabulary": 49,
+      "pages": 1
+    },
+    {
+      "name": "Veronikas Geheimnis.pdf",
+      "folder": "/home/admin/Videos/Audio/Veronikas Geheimnis",
+      "sentences": 0,
+      "dialogues": 0,
+      "vocabulary": 0,
+      "pages": 1
+    }
+  ],
+  "errors": [],
+  "sampleSentences": [
+    "Er sieht zurück, die Männer verfolgen ihn.",
+    "Die wollen nur nicht zahlen!",
+    "Er möchte sie zu den Spagetthi einzuladen, die er gekocht hat, aber sie ist nicht zu Hause.",
+    "Sicher würden sie sich freuen.",
+    "Er lebt! 43 Ü f Markus hat Glück gehabt, aber auch Florian!",
+    "Verena war die Liebe von Manfred.",
+    "Die Arbeit bei Dr.",
+    "Da gibt er sich f tr I eine Spritze... tr Elisabeth kommt zurück und findet den Zettel von tr tr I [-l Markus.",
+    "Ich mach den Laden um 12 zu, und dann geh ich einkaufen.“ 7 \"Du hast eine Putzfrau?“ 12 \"Anna und Leo haben das doch organisiert!",
+    "Die Bögen werden an der Tafel oder Wand befestigt und gemeinsam wird überlegt, wer besonders gut für einen gemeinsamen Urlaub in Frage kommt.",
+    "Ich komme im Auftrag der Versicherung.",
+    "Am Ende ist er plötzlich tot... \",, Lisa, wir müssen das genau untersuchen.",
+    "Aber wenn wir das Gegenteil sagen - Hofer war wirklich krank. der Arzt war schlecht...",
+    "Sattler ist nicht gut.",
+    "Im Anschluss an die Lehrerhandreichungen zu jeder Erzählung finden sich dann die Arbeitsblätter für die Kursteilnehmer.",
+    "Sattler, hier bitte. \",, Frau Aumann, nehmen Sie Platz.",
+    "Benno und Felipe verfolgen die junge Frau vom Pﬂegedienst auf ihrem Motorroller.",
+    "Warum ist Hofer gestorben?",
+    "Sie waren oft zusammen in den Ferien.",
+    "Einer von Ihnen sieht das Leben und die Leute immer negativ und stellt Vermutungen über \"seine“ Situationen an."
+  ]
+}
