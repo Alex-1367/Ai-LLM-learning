@@ -1,0 +1,54 @@
+{
+  "model": {
+    "vocabSize": 9814,
+    "embeddingDim": 32,
+    "numLayers": 2,
+    "numHeads": 4,
+    "maxLength": 32,
+    "timestamp": "2026-03-09T22:20:53.559Z",
+    "stats": {
+      "totalWords": 9814,
+      "totalSentences": 4579
+    }
+  },
+  "vocabulary": {
+    "size": 9814,
+    "specialTokens": {
+      "<PAD>": 0,
+      "<UNK>": 1,
+      "<BOS>": 2,
+      "<EOS>": 3,
+      "<MASK>": 4
+    },
+    "sampleWords": [
+      "german",
+      "wie",
+      "heißen",
+      "wie heißen sie?",
+      "guten tag",
+      "und",
+      "woher",
+      "kommen",
+      "woher kommen sie?",
+      "ich komme aus ...",
+      "guten morgen",
+      "der name",
+      "mein name ist ...",
+      "neu",
+      "das haus",
+      "ich bin neu hier im haus",
+      "entschyldigung",
+      "wohnen",
+      "schon lang",
+      "hier"
+    ]
+  },
+  "files": [
+    "config.json",
+    "vocabulary.json",
+    "embeddings.json",
+    "transformer.json",
+    "output_projection.json"
+  ],
+  "totalParameters": 652672
+}

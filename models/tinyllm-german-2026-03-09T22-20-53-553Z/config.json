@@ -1,0 +1,12 @@
+{
+  "vocabSize": 9814,
+  "embeddingDim": 32,
+  "numLayers": 2,
+  "numHeads": 4,
+  "maxLength": 32,
+  "timestamp": "2026-03-09T22:20:53.559Z",
+  "stats": {
+    "totalWords": 9814,
+    "totalSentences": 4579
+  }
+}

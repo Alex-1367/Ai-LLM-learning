@@ -1,0 +1,6 @@
+    config.json - Model architecture settings
+    vocabulary.json - Your 9,814 German words mapped to IDs
+    embeddings.json - The actual word vectors (9814×32 matrix)
+    transformer.json - All the attention weights
+    output_projection.json - Final layer weights
+    gguf-manifest.json - Summary in GGUF-like format
