@@ -1,0 +1,22 @@
+{
+  "format": "tinyllm-gguf-analog",
+  "version": "1.0",
+  "model": "tinyllm-german",
+  "architecture": "tinyllm",
+  "parameters": 2512128,
+  "quantization": "float32",
+  "files": [
+    "config.json",
+    "vocabulary.json",
+    "embeddings.json",
+    "transformer.json",
+    "output_projection.json"
+  ],
+  "metadata": {
+    "trained_on": "18474 words, 9386 sentences",
+    "embedding_dim": 64,
+    "layers": 3,
+    "heads": 4,
+    "date": "2026-03-10T03:38:29.598Z"
+  }
+}
